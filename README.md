@@ -15,9 +15,6 @@ To run the project locally:
 4. Open `http://localhost:5173` to view the application.
 
 
-
-Deadline: Within **24 hours** of receiving this challenge.
-
 ---
 
 ## 🛠️ Approach Notes:
