@@ -14,18 +14,7 @@ To run the project locally:
 3. Start the development server: `npm run dev`
 4. Open `http://localhost:5173` to view the application.
 
----
 
-## 📩 Submission Instructions:
-- Fork this repo and convert the static page into a React app.
-- Email the **GitHub repo link** to: `sophie@bugflows.com`
-- Subject Line: `React Challenge - [Your Full Name]`
-- Please include:
-  - Your GitHub repo URL: `https://github.com/Atanurag/bugflows-react-challenge`
-  - A short note about the approach:
-    ```
-    I converted the static login page into a React application using Vite for fast setup. The LoginForm component uses useState to manage form inputs and handles submission with an alert and console.log. Styles are scoped using CSS modules for modularity, and the code is organized into components as suggested, ensuring clean and readable JSX.
-    ```
 
 Deadline: Within **24 hours** of receiving this challenge.
 
